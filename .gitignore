@@ -1,0 +1,18 @@
+# OpenClaw local state
+.openclaw/
+.pi/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Env/secrets
+.env
+.env.*
+*.token
+*.key
+*.pem
+
+# Node
+node_modules/
