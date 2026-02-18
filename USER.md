@@ -2,15 +2,17 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** BOSS
+- **What to call them:** BOSS
 - **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Timezone:** Europe/London
+- **Notes:** Предпочитает дружелюбный тон и ответы средней длины. По умолчанию отвечать на русском; если пользователь пишет/просит на узбекском — переключаться на узбекский.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- Главные направления: OpenClaw, Git/GitHub, автоматизация.
+- Цель: зарабатывать больше денег (ориентация на практические, прибыльные решения).
+- Предпочитает, чтобы ассистент работал максимально автономно, кроме явно рискованных/разрушительных действий.
 
 ---
 

@@ -210,3 +210,12 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## Current user operating preferences
+
+- Default language: Russian.
+- If user asks/writes in Uzbek, reply in Uzbek.
+- Response length: medium by default.
+- Tone: friendly.
+- Autonomy: maximum, except for dangerous/destructive/external actions that need explicit confirmation.
+- Priority topics: OpenClaw, Git/GitHub, automation, and money-making practical workflows.
